@@ -1,0 +1,25 @@
+Index: README.md
+===================================================================
+diff --git a/README.md b/README.md
+deleted file mode 100644
+--- a/README.md	(revision 53fe72ab4f9f6758b4f40af177dd6816bce28be8)
++++ /dev/null	(revision 53fe72ab4f9f6758b4f40af177dd6816bce28be8)
+@@ -1,5 +0,0 @@
+-# Welcome to GitHub Desktop!
+-
+-This is your README. READMEs are where you can communicate what your project is and how to use it.
+-
+-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Index: test_git.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test_git.txt b/test_git.txt
+new file mode 100644
+--- /dev/null	(date 1723461379957)
++++ b/test_git.txt	(date 1723461379957)
+@@ -0,0 +1,3 @@
++Посадил некто что-то
++Выросло что-то большое пребольшое
++Когда расцвело, то поняли все что это не дыня...
