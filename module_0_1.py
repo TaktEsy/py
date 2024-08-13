@@ -16,6 +16,5 @@ print("3rd program")
 print((2*2+2) == (2*(2+2)))
 
 print("4th program")
-x = 123.456 * 10
-
-print(int(x))
+x = 123.456
+print(int(x % 1 * 10))
