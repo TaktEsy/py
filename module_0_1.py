@@ -17,6 +17,5 @@ print((2*2+2) == (2*(2+2)))
 
 print("4th program")
 x = 123.456 * 10
-x = float(x)
-x = x/308.64
+
 print(int(x))
